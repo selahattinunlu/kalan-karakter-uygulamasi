@@ -1,0 +1,4 @@
+#karakterSinirla{ background:#ddd; width:500px; padding:20px; }
+	#karakterSinirla textarea{ resize:none; }
+	#karakterSinirla span{ float:right; font-weight:bold; }
+		#karakterSinirla span:after{ clear:right; };
